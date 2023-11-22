@@ -10,3 +10,12 @@ Consigli del giorno:
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
 
+
+-----------------SCOMPOSIZIONE DEL PROBLEMA-----------------
+1. Ciclo for che dovrà scrivere i numeri da 1 a 100.
+2a Per ogni multiplo di 3, 5 e 3-5 deve stampare una parola al posto del numero.
+    3 - "Fizz"
+    5 - "Buzz"
+    3-5 - "FizzBuzz"
+2b Se il valore dato dal calcolo del resto è 0 il numero sarà multiplo.
+3. Stampa in console tutti i numeri e parole.
